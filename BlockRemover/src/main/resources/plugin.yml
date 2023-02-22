@@ -1,0 +1,15 @@
+name: BlockRemover
+version: '${project.version}'
+main: me.vaced.blockremover.BlockRemover
+api-version: 1.19
+authors: [ Vaced_ ]
+commands:
+  blockremover:
+    description: a command
+    aliases:
+      - br
+      - b
+      - r
+      - block
+      - remover
+
